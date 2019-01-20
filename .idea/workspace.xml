@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db26cab-4e6e-4fa5-a594-5a0cdc5031a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frozen.py" beforeDir="false" afterPath="$PROJECT_DIR$/frozen.py" afterDir="false" />
-    </list>
+    <list default="true" id="2db26cab-4e6e-4fa5-a594-5a0cdc5031a1" name="Default Changelist" comment="Changed episodes" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547575644981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed episodes">
+      <created>1548005787963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548005787963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -153,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tested it, working well" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested it, working well" />
+    <MESSAGE value="Changed episodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed episodes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/frozen.py">
