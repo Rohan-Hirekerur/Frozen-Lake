@@ -1,6 +1,3 @@
-# from IPython.display import HTML
-# HTML('<iframe width="560" height="315" src="https://www.youtube.com/embed/q2ZOEFAaaI0?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>')
-
 import numpy as np
 import gym
 import random
@@ -13,7 +10,7 @@ state_size = env.observation_space.n
 qtable = np.zeros((state_size, action_size))
 print(qtable)
 
-total_episodes = 30000        # Total episodes
+total_episodes = 40000        # Total episodes
 learning_rate = 0.8           # Learning rate
 max_steps = 99                # Max steps per episode
 gamma = 0.95                  # Discounting rate
